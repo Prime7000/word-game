@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "jupyterlab>=4.4.6",
+    "keyboard>=0.13.5",
     "nltk>=3.9.1",
 ]
