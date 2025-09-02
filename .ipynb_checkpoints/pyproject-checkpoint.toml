@@ -1,0 +1,10 @@
+[project]
+name = "word-game"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.4.6",
+    "nltk>=3.9.1",
+]
